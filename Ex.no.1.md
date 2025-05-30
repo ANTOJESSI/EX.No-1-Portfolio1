@@ -366,7 +366,8 @@ photo.html
 
 ## OUTPUT
 ![image](https://github.com/user-attachments/assets/51c556ec-75a6-4578-ba6e-1978268131f8)
-![image](https://github.com/user-attachments/assets/fc5afdcb-5745-45cf-b945-4f9987dd7516)
+![image](https://github.com/user-attachments/assets/1b766fde-a2f2-411a-897f-96160c5bc654)
+
 
 
 ## RESULT
